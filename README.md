@@ -11,3 +11,4 @@
  - Test HTML, CSS
  - [Figma](https://www.figma.com/file/ggOj7OOQbFXLGV4ZaJwTlK/Workshop-Training?node-id=0%3A1).
  - Question -> [Codesandbox](https://codesandbox.io/s/question-app-interview-no2-2c6ku).
+![image2](./no2.png)
